@@ -32,7 +32,7 @@ public class Person {
 
     public String getGender () { return gender; }
 
-    public void setGender (String gender) { this.name = name; }
+    public void setGender (String gender) { this.gender = gender; }
 
     @Override
     public String toString() {
